@@ -74,6 +74,10 @@ public class Question {
 		}
 
 		System.out.println(sb);
+		
+		scanner.close();
+		scanner1.close();
+		scanner2.close();
 	}
 
 }
